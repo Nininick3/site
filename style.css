@@ -11,6 +11,14 @@ header{
     text-align: center;
 }
 
+nav a {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
 main{
     background: white;
     margin-top: 10px;
@@ -19,4 +27,8 @@ main{
     padding: 10px;
     border-radius: 10px;
     width: 80%;
+}
+
+main h1 {
+    text-align: center;
 }
