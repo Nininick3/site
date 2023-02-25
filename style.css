@@ -32,3 +32,7 @@ main{
 main h1 {
     text-align: center;
 }
+
+main iframe{
+    width: 100%;
+}
